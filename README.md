@@ -1,2 +1,1 @@
-# newton-candle
-newton candle
+# NC27
